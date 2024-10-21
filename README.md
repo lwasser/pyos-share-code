@@ -1,2 +1,3 @@
 # pyos-share-code
-My great package!
+
+This repository contains code that processes data for my project.
